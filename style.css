@@ -1,3 +1,8 @@
 body {
 	background: #BFE4A0;
+	font-family: 'Lato', cursive;
 }
+.header__title {
+	font-family: 'Roboto', sans-serif;
+}
+
